@@ -7474,4 +7474,5 @@
 #include "modular_zubbers\maps\biodome\vendcation.dm"
 #include "modular_zubbers\maps\biodome\weapons.dm"
 #include "modular_zubbers\modules\customization\modules\mob\dead\new_player\sprite_accessories\skrell_hair.dm"
+#include "modular_zzhugger\code\datums\armor\_armor.dm"
 // END_INCLUDE
