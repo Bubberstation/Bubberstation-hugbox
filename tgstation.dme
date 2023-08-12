@@ -6707,7 +6707,6 @@
 #include "modular_skyrat\modules\mapping\code\fluff.dm"
 #include "modular_skyrat\modules\mapping\code\furniture.dm"
 #include "modular_skyrat\modules\mapping\code\holocall.dm"
-#include "modular_skyrat\modules\mapping\code\icemoon.dm"
 #include "modular_skyrat\modules\mapping\code\interdyne_mining.dm"
 #include "modular_skyrat\modules\mapping\code\jobs.dm"
 #include "modular_skyrat\modules\mapping\code\laptop_presets.dm"
