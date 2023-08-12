@@ -7475,6 +7475,7 @@
 #include "modular_zubbers\maps\biodome\vendcation.dm"
 #include "modular_zubbers\maps\biodome\weapons.dm"
 #include "modular_zubbers\modules\customization\modules\mob\dead\new_player\sprite_accessories\skrell_hair.dm"
+#include "modular_zzhugger\code\game\objects\structures\crates_lockers\security.dm"
 #include "modular_zzhugger\code\modules\jobs\job_types\atmospheric_technician.dm"
 #include "modular_zzhugger\code\modules\jobs\job_types\blacksmith.dm"
 #include "modular_zzhugger\code\modules\jobs\job_types\bouncer.dm"
