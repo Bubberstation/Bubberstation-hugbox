@@ -7474,4 +7474,7 @@
 #include "modular_zubbers\maps\biodome\vendcation.dm"
 #include "modular_zubbers\maps\biodome\weapons.dm"
 #include "modular_zubbers\modules\customization\modules\mob\dead\new_player\sprite_accessories\skrell_hair.dm"
+#include "modular_zzhugger\code\datums\atmosphere\planetary.dm"
+#include "modular_zzhugger\code\game\objects\structures\crates_lockers\closets\secure\cargo.dm"
+#include "modular_zzhugger\code\modules\bluespace_miner\bluespace_miner.dm"
 // END_INCLUDE
