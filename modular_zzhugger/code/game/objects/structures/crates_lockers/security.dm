@@ -1,0 +1,98 @@
+/obj/structure/closet/secure_closet/captains/PopulateContents()
+	new /obj/item/clothing/neck/petcollar(src)
+	new /obj/item/pet_carrier(src)
+	new /obj/item/computer_disk/command/captain(src)
+	new /obj/item/radio/headset/heads/captain/alt(src)
+	new /obj/item/radio/headset/heads/captain(src)
+	new /obj/item/storage/belt/sabre(src)
+	new /obj/item/gun/energy/e_gun(src)
+	new /obj/item/door_remote/captain(src)
+
+/obj/structure/closet/secure_closet/hop/PopulateContents()
+	new /obj/item/dog_bone(src)
+	new /obj/item/storage/bag/garment/hop(src)
+	new /obj/item/storage/lockbox/medal/service(src)
+	new /obj/item/computer_disk/command/hop(src)
+	new /obj/item/radio/headset/heads/hop(src)
+	new /obj/item/storage/box/ids(src)
+	new /obj/item/storage/box/silver_ids(src)
+	new /obj/item/megaphone/command(src)
+	new /obj/item/gun/energy/e_gun(src)
+	new /obj/item/clothing/neck/petcollar(src)
+	new /obj/item/pet_carrier(src)
+	new /obj/item/door_remote/civilian(src)
+	new /obj/item/circuitboard/machine/techfab/department/service(src)
+	new /obj/item/storage/photo_album/hop(src)
+	new /obj/item/storage/lockbox/medal/hop(src)
+
+/obj/structure/closet/secure_closet/hos/PopulateContents()
+	new /obj/item/computer_disk/command/hos(src)
+	new /obj/item/storage/lockbox/loyalty(src)
+	new /obj/item/circuitboard/machine/techfab/department/security(src)
+
+/obj/structure/closet/secure_closet/warden/PopulateContents()
+	new /obj/item/dog_bone(src)
+	new /obj/item/storage/box/zipties(src)
+	new /obj/item/flashlight/seclite(src)
+	new /obj/item/door_remote/head_of_security(src)
+
+/obj/structure/closet/secure_closet/security/PopulateContents()
+	new /obj/item/flashlight/seclite(src)
+
+/obj/structure/closet/secure_closet/security/sec/PopulateContents()
+
+/obj/structure/closet/secure_closet/security/cargo/PopulateContents()
+
+/obj/structure/closet/secure_closet/security/engine/PopulateContents()
+
+/obj/structure/closet/secure_closet/security/science/PopulateContents()
+
+/obj/structure/closet/secure_closet/security/med/PopulateContents()
+
+/obj/structure/closet/secure_closet/security_medic/PopulateContents()
+	new /obj/item/storage/medkit/emergency(src)
+	new /obj/item/clothing/suit/jacket/straight_jacket(src)
+	new /obj/item/storage/belt/medical(src)
+
+/obj/structure/closet/secure_closet/blueshield/New()
+	new /obj/item/storage/belt/security/full(src)
+	new /obj/item/grenade/flashbang(src)
+	new /obj/item/restraints/handcuffs(src)
+	new /obj/item/clothing/glasses/hud/health/sunglasses(src)
+	new /obj/item/clothing/suit/hooded/wintercoat/skyrat/blueshield(src)
+	new /obj/item/storage/medkit/tactical/blueshield(src)
+
+/obj/structure/closet/secure_closet/nanotrasen_consultant/station/PopulateContents()
+	new /obj/item/storage/backpack/satchel/leather(src)
+	new /obj/item/clothing/neck/petcollar(src)
+	new /obj/item/pet_carrier(src)
+	new /obj/item/clothing/shoes/sneakers/brown(src)
+	new /obj/item/clothing/suit/armor/vest(src)
+	new /obj/item/computer_disk/command/captain(src)
+	new /obj/item/radio/headset/heads/nanotrasen_consultant/alt(src)
+	new /obj/item/radio/headset/heads/nanotrasen_consultant(src)
+	new /obj/item/clothing/glasses/sunglasses/gar/giga(src)
+	new /obj/item/clothing/gloves/combat(src)
+	new /obj/item/clothing/gloves/combat/naval/nanotrasen_consultant(src)
+	new /obj/item/storage/photo_album/personal(src)
+	new /obj/item/bedsheet/centcom(src)
+	new /obj/item/clothing/suit/hooded/wintercoat/centcom/nt_consultant(src)
+
+/obj/structure/closet/secure_closet/detective/PopulateContents()
+	new /obj/item/storage/box/evidence(src)
+	new /obj/item/detective_scanner(src)
+	new /obj/item/flashlight/seclite(src)
+	new /obj/item/toy/crayon/white(src) //SKYRAT EDIT CHANGE - ORIGINAL: /obj/item/storage/belt/holster/detective/full(src)
+	new /obj/item/binoculars(src)
+	new /obj/item/storage/box/rxglasses/spyglasskit(src)
+
+/obj/structure/closet/secure_closet/armory1/PopulateContents()
+
+/obj/structure/closet/secure_closet/armory2/PopulateContents()
+
+/obj/structure/closet/secure_closet/armory3/PopulateContents()
+
+/obj/structure/closet/secure_closet/tac/PopulateContents()
+
+/obj/structure/closet/secure_closet/labor_camp_security/PopulateContents()
+	new /obj/item/flashlight/seclite(src)
