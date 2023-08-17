@@ -20,7 +20,7 @@ $include auxtools.txt
 # There are various options which are hard-locked for security reasons.
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-@SERVERNAME Huggerstation 13 [18+ Furry Slice of Life RP, NO antags]
+@SERVERNAME Huggerstation Test [18+ Furry Slice of Life RP, NO antags]
 
 ## Server tagline: This will appear right below the server's title.
 SERVERTAGLINE [Discord Whitelist] Small departments, more fun!
