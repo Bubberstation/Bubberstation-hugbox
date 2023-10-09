@@ -19,12 +19,14 @@
 #define GIBTONITE_DETONATE 3
 
 /// A wrapper for [/atom/proc/ex_act] to ensure that the explosion propagation and attendant signal are always handled.
-#define EX_ACT(target, args...)\
-	if(!(target.flags_1 & PREVENT_CONTENTS_EXPLOSION_1)) { \
+#define EX_ACT(...)
+	/*if(!(target.flags_1 & PREVENT_CONTENTS_EXPLOSION_1)) { \
 		target.contents_explosion(##args);\
 	};\
 	SEND_SIGNAL(target, COMSIG_ATOM_EX_ACT, ##args);\
 	target.ex_act(##args);
+*/
+//Huggerstation edit: Removes explosions as a concept
 
 // Internal explosion argument list keys.
 // Must match the arguments to [/datum/controller/subsystem/explosions/proc/propagate_blastwave]
