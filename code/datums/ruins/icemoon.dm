@@ -115,13 +115,13 @@
 	id = "hermitshack"
 	description = "A place of shelter for a lone hermit, scraping by to live another day."
 	suffix = "icemoon_underground_hermit.dmm"
-
+/*
 /datum/map_template/ruin/icemoon/underground/lavaland
 	name = "Lavaland Site"
 	id = "lavalandsite"
 	description = "I guess we never really left you huh?"
 	suffix = "icemoon_underground_lavaland.dmm"
-
+*/ //Huggerstation edit: Remove Megafauna and Ghost Spawners
 /datum/map_template/ruin/icemoon/underground/puzzle
 	name = "Ancient Puzzle"
 	id = "puzzle"
@@ -133,7 +133,7 @@
 	id = "bathhouse"
 	description = "A warm, safe place."
 	suffix = "icemoon_underground_bathhouse.dmm"
-
+/*
 /datum/map_template/ruin/icemoon/underground/wendigo_cave
 	name = "Wendigo Cave"
 	id = "wendigocave"
@@ -147,7 +147,7 @@
 	Seem very intent on research and individual liberty, and also geology-based naming?"
 	prefix = "_maps/RandomRuins/AnywhereRuins/"
 	suffix = "golem_ship.dmm"
-
+*/ //Huggerstation edit: Remove Megafauna and Ghost Spawners
 /datum/map_template/ruin/icemoon/underground/mailroom
 	name = "Frozen-over Post Office"
 	id = "mailroom"
